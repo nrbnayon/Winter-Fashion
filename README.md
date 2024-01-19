@@ -33,7 +33,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/nrbnayon/Winter-Fashion.git
    ```
 
-````
 
 2. Open the `index.html` file in your preferred web browser.
 
@@ -55,8 +54,3 @@ For any inquiries or support, contact us at [nrbnayon@gmail.com].
 
 **Winter Fashion eShop** - Enhancing your winter style!
 
-```
-
-Make sure to keep the proper indentation and spacing to achieve the desired formatting when rendering in Markdown.
-```
-````
