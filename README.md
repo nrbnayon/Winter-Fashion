@@ -1,13 +1,10 @@
-
-```markdown
 # Winter Fashion eShop
 
 Welcome to Winter Fashion eShop! This is a stylish e-commerce website for winter fashion products.
 
 ## Live Demo
 
-Check out the live demo [here](https://nrbnayon.github.io/Winter-Fashion/).
-or [Demo](https://winternfashion.netlify.app/)
+Check out the live demo [here](https://nrbnayon.github.io/Winter-Fashion/) or [Demo](https://winternfashion.netlify.app/).
 
 ## Overview
 
@@ -36,6 +33,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/nrbnayon/Winter-Fashion.git
    ```
 
+````
+
 2. Open the `index.html` file in your preferred web browser.
 
 3. Explore the Winter Fashion eShop right from your local machine!
@@ -55,4 +54,9 @@ For any inquiries or support, contact us at [nrbnayon@gmail.com].
 ---
 
 **Winter Fashion eShop** - Enhancing your winter style!
+
 ```
+
+Make sure to keep the proper indentation and spacing to achieve the desired formatting when rendering in Markdown.
+```
+````
